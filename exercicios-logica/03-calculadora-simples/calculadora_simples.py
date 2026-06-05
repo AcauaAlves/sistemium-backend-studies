@@ -1,3 +1,4 @@
+#Exercicio simples de calculadora revisado com IA para melhorar a clareza das variaveis e das funções
 def mostrar_menu():
     print("Calculadora legal")
     print("Digite o número da operação que deseja realizar:")
