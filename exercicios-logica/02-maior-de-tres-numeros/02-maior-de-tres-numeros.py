@@ -1,3 +1,4 @@
+#Exercicio simples para verificar e printar qual é o maior de 3 números
 def encontrar_maior(numero1, numero2, numero3):
     if numero1 >= numero2 and numero1 >= numero3:
         return numero1
