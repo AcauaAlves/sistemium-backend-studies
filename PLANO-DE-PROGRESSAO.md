@@ -13,6 +13,11 @@ Entregas obrigatorias desta etapa:
 - pelo menos 3 exercicios de logica em `exercicios-logica`
 - primeiro Pull Request aberto
 
+Forma de apresentacao para avaliacao:
+
+- uma thread separada para cada exercicio de logica
+- sem agrupar todos os exercicios do Nivel 0 em uma unica postagem
+
 ## Proximas etapas da trilha
 
 Nivel 1:
