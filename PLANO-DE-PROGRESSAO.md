@@ -4,23 +4,50 @@ Este arquivo existe para deixar a estrutura do repositorio alinhada com os docum
 
 ## Nivel atual
 
-Nivel 0 - Base obrigatoria
+Nivel 1 - Fundamentos de programacao back-end
 
-Entregas obrigatorias desta etapa:
+Status: concluido no repositório.
+
+Entregas ja concluidas do Nivel 0:
 
 - `README.md` de apresentacao
 - pasta `log-de-estudos`
 - pelo menos 3 exercicios de logica em `exercicios-logica`
 - primeiro Pull Request aberto
 
-## Proximas etapas da trilha
+Entrega concluida do Nivel 1:
 
-Nivel 1:
 - mini-projeto de terminal na stack escolhida
 - validacao de entrada
 - tratamento de erro
 - testes basicos
 - README explicando como rodar
+
+Forma de apresentacao para avaliacao:
+
+- uma thread separada para cada entrega do Nivel 1
+- sem agrupar o mini-projeto com os exercicios do Nivel 0
+
+Evidencias registradas:
+
+- mini-projeto `01-sistema-registro-produtos`
+- `README.md` do projeto preenchido
+- testes basicos executaveis com `unittest`
+- log de estudos atualizado em `log-de-estudos/2026-06-16.md`
+
+## Resumo do Nivel 1 entregue
+
+- mini-projeto de terminal na stack escolhida
+- validacao de entrada
+- tratamento de erro
+- testes basicos
+- README explicando como rodar
+
+- entregue no repositório
+- evidencias documentadas
+- etapa encerrada na documentacao atual
+
+## Proximas etapas da trilha
 
 Nivel 2:
 - API REST com banco de dados
