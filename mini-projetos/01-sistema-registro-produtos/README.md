@@ -30,7 +30,7 @@ Praticar fundamentos de programacao back-end com Python por meio de um sistema d
 ## Estrutura
 
 - `src/`: codigo-fonte do projeto
-- `tests/`: testes basicos
+- `tests/`: um arquivo com testes basicos
 
 ## Como executar
 
@@ -45,7 +45,7 @@ python3 src/main.py
 
 ```bash
 cd mini-projetos/01-sistema-registro-produtos
-python3 -m unittest discover -s tests -p 'test_*.py'
+python3 -m unittest tests/test_basico.py
 ```
 
 ## Aprendizados
@@ -59,7 +59,7 @@ python3 -m unittest discover -s tests -p 'test_*.py'
 ## Evidencias da entrega
 
 - execucao local validada com `python3 src/main.py`
-- testes validados com `python3 -m unittest discover -s tests -p 'test_*.py'`
+- testes validados com `python3 -m unittest tests/test_basico.py`
 - documentacao do requisito consolidada em `NIVEL-1-REQUISITOS-E-CHECKLIST.md`
 
 ## Forma de postagem para avaliacao

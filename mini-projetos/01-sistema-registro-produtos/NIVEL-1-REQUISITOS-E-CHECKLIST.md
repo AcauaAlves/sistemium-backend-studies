@@ -167,13 +167,14 @@ Projeto analisado:
 - organizacao do fluxo em modulos separados
 - log de estudos com explicacao do que foi aprendido
 - README com comandos de execucao e de teste
+- um arquivo simples de testes basicos em `tests/test_basico.py`
 
 ### O que foi validado nesta revisao
 
 - o README do mini-projeto esta preenchido com objetivo, requisitos, execucao, testes e aprendizados
-- existem testes basicos implementados para produto, validacao e operacoes de lista usando `unittest` basico
+- existe um arquivo simples de testes basicos para classe e validacao usando `unittest`
 - a aplicacao sobe no terminal e permite encerrar normalmente pelo menu
-- a suite `python3 -m unittest discover -s tests -p 'test_*.py'` executa com sucesso
+- o comando `python3 -m unittest tests/test_basico.py` executa com sucesso
 - o log de estudos de `2026-06-16.md` registra a entrega e os aprendizados do Nivel 1
 
 ## 4. Checklist objetivo do Nivel 1
