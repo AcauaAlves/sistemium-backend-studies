@@ -63,6 +63,16 @@ Os exercícios disponíveis no momento são:
 
 Todos estão dentro da pasta `exercicios-logica/`.
 
+## Forma de postagem para avaliacao
+
+Para facilitar a revisao e a pontuacao da entrega do Nivel 0, cada exercicio deve ser postado de forma individual:
+
+* uma thread para `01-par-ou-impar`;
+* uma thread para `02-maior-de-dois-numeros`;
+* uma thread para `03-calculadora-simples`.
+
+Nao devo agrupar todos os exercicios em uma unica postagem. Cada thread deve conter o link ou referencia do exercicio, um resumo curto do que foi praticado e o que merece revisao.
+
 ## Logs de estudo
 
 Os registros de estudo ficam na pasta `log-de-estudos/`.
