@@ -4,7 +4,7 @@ Esta pasta concentra os exercicios de logica obrigatorios do Nivel 0 da trilha B
 
 ## Objetivo
 
-Registrar a pratica inicial de fundamentos de programacao com Python, servindo como evidencia de estudo aplicado antes do mini-projeto do Nivel 1.
+Registrar a pratica inicial de fundamentos de programacao com Python, servindo como evidencia de estudo aplicado na base atual da trilha.
 
 ## Exercicios atuais
 
