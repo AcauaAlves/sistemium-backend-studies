@@ -1,71 +1,36 @@
-# Plano de Progressao da Trilha Back-End
+# Plano de Progressão da Trilha Back-End
 
-Este arquivo existe para deixar a estrutura do repositorio alinhada com os documentos da Sistemium sem adiantar conteudo fora da etapa atual.
+Este arquivo existe para manter o repositório alinhado com a etapa real da trilha, sem misturar entregas de níveis diferentes no mesmo commit.
 
-## Nivel atual
+## Etapa preparada agora
 
-Nivel 0 - Base obrigatoria
+**Nível 1 - Fundamentos de programação back-end**
 
-Entregas obrigatorias desta etapa:
+Status:
 
-- `README.md` de apresentacao
-- pasta `log-de-estudos`
-- pelo menos 3 exercicios de logica em `exercicios-logica`
-- primeiro Pull Request aberto
+- organizado;
+- documentado;
+- focado em Java;
+- sem extrapolar o escopo do mini-projeto inicial.
 
-Forma de apresentacao para avaliacao:
+## O que o Nível 1 pede segundo `INS-007`
 
-- uma thread separada para cada exercicio de logica
-- sem agrupar todos os exercicios do Nivel 0 em uma unica postagem
+- mini-projeto de terminal na stack escolhida;
+- cadastro simples em memória;
+- validação de entrada;
+- tratamento de erro;
+- testes básicos;
+- README explicando como rodar.
 
-## Proximas etapas da trilha
+## O que foi deixado no repositório para esta entrega
 
-Nivel 1:
-- mini-projeto de terminal na stack escolhida
-- validacao de entrada
-- tratamento de erro
-- testes basicos
-- README explicando como rodar
+- `java/exercicios-logica/` como base de estudo da linguagem;
+- `java/mini-projetos/01-sistema-registro-produtos-java/` como entrega atual;
+- `java/log-de-estudos/` com registro da evolução e da preparação do PR;
+- documentação simples de execução, teste e checklist.
 
-Nivel 2:
-- API REST com banco de dados
-- cadastro de usuarios
-- login
-- CRUD de uma entidade principal
-- PostgreSQL
-- migrations
-- validacao
-- documentacao dos endpoints
-- README
-- testes basicos
+## Regra de organização usada aqui
 
-Nivel 3:
-- API profissional local
-- framework da stack
-- PostgreSQL
-- Docker Compose
-- testes
-- autenticacao
-- Swagger/OpenAPI
-- GitHub Actions
-- README tecnico
-- PR revisavel
-
-Nivel 4:
-- modulo back-end de produto real
-- autenticacao e autorizacao
-- CRUD avancado
-- filtros e paginacao
-- integracao externa ou webhook
-- logs estruturados
-- tratamento de erros
-- testes relevantes
-- documentacao tecnica
-- PR completo
-
-Nivel 5:
-- lideranca de modulo, ADR, tutorial interno, desafio oficial, reviews ou melhoria arquitetural
-
-## Regra de organizacao
-
-Novas pastas devem ser criadas apenas quando a trilha realmente avancar para a etapa correspondente, para nao poluir a leitura do Nivel atual.
+- O foco atual fica no `Nível 1` em Java.
+- O mini-projeto permanece simples e sem framework.
+- Etapas futuras continuam fora deste PR.
