@@ -2,56 +2,56 @@
 
 Repositório pessoal de estudos da trilha Back-End da Sistemium.
 
-VERIFICAR PULL REQUEST, POR FAVOR!
-
 ## Sobre mim
 
-Olá, meu nome é Acauã Barros Santos Alves.
+Meu nome é Acauã Barros Santos Alves.
 
-Estou iniciando minha formação em desenvolvimento Back-End, com foco em estudo prático, documentação, versionamento e entrega com evidências.
+Estou organizando meus estudos de back-end com foco em:
 
-## Trilha atual
+- prática real;
+- documentação;
+- versionamento;
+- evidência de aprendizado.
 
-Estou no `Nível 0 - Base obrigatória` da trilha Back-End da Sistemium.
+## Etapa atual da trilha
 
-## Objetivo do repositório
+Entrega atual em andamento neste repositório:
 
-Este repositório será usado para registrar minha evolução na trilha Back-End, incluindo:
+- `Nível 1 - Fundamentos de programação back-end`
+- stack atual: `Java`
+- mini-projeto simples de terminal
+- evidências escritas com base nos PDFs `INS-003`, `INS-004`, `INS-006` e `INS-007`
 
-* exercícios de lógica;
-* logs de estudo;
-* práticas com Git, GitHub e Pull Requests.
+## O que já está organizado
 
-## Stack principal
+Com base em `INS-007`, o repositório já tem a base do `Nível 0` e a preparação da entrega atual do `Nível 1`.
 
-Python.
+Principais evidências atuais:
 
-## Entregas obrigatórias do Nível 0
+- `README.md` de apresentação;
+- logs de estudo por stack;
+- exercícios de lógica em `java/exercicios-logica/`;
+- mini-projeto atual em `java/mini-projetos/01-sistema-registro-produtos-java/`.
 
-Este repositório foi organizado para atender às entregas obrigatórias descritas na trilha:
+## Linguagens organizadas
 
-* `README.md` de apresentação;
-* pasta `log-de-estudos/`;
-* pelo menos 3 exercícios de lógica;
-* base para abertura do primeiro Pull Request.
+Para facilitar leitura, revisão e futuros PRs, os arquivos foram separados por linguagem:
 
-## Exercícios de lógica atuais
+- `python/`
+- `java/`
 
-Os exercícios disponíveis no momento são:
+## Foco atual
 
-* `01-par-ou-impar`
-* `02-maior-de-dois-numeros`
-* `03-calculadora-simples`
+Meu foco atual dentro da trilha Back-End está em **Java**.
 
-Todos estão dentro da pasta `exercicios-logica/`.
+Os exercícios de lógica em Java servem como base real do meu nível atual de programação na linguagem, enquanto o mini-projeto do Nível 1 mostra aplicação simples de:
 
-## Logs de estudo
-
-Os registros de estudo ficam na pasta `log-de-estudos/`.
-
-Arquivo atual:
-
-* `2026-06-05.md`
+- `Scanner`;
+- `ArrayList`;
+- classes e objetos;
+- validação de entrada;
+- tratamento de erro básico;
+- organização em múltiplos arquivos.
 
 ## Estrutura atual
 
@@ -59,17 +59,29 @@ Arquivo atual:
 sistemium-backend-studies/
 ├── README.md
 ├── PLANO-DE-PROGRESSAO.md
-├── log-de-estudos/
-├── exercicios-logica/
-└── .github/
+├── python/
+│   ├── README.md
+│   ├── exercicios-logica/
+│   └── log-de-estudos/
+└── java/
+    ├── README.md
+    ├── exercicios-logica/
+    ├── mini-projetos/
+    └── log-de-estudos/
 ```
 
-## Organização da trilha
+## Entrega atual do Nível 1 em Java
 
-No momento, o repositório está mantido de forma enxuta para o Nível 0.
+O mini-projeto atual é um sistema simples de registro de produtos em terminal, escrito em Java, com:
 
-As próximas entregas da trilha estão registradas em `PLANO-DE-PROGRESSAO.md` e só devem virar novas pastas quando a etapa correspondente começar.
+- cadastro em memória;
+- listagem;
+- busca por nome;
+- remoção por nome;
+- validação de nome e preço;
+- tratamento de erro de entrada;
+- teste básico sem framework externo.
 
-## Observação
+## Observação de escopo
 
-Este repositório será atualizado conforme avanço na trilha.
+Esta entrega foi mantida propositalmente simples para ficar coerente com um estudo inicial de Java, sem avançar além do que o `Nível 1` pede nos documentos da Sistemium.
