@@ -13,22 +13,25 @@ Estou organizando meus estudos de back-end com foco em:
 - versionamento;
 - evidência de aprendizado.
 
-## Base atual
+## Etapa atual da trilha
 
-Com base em `INS-007`, o Nível 0 pede:
+Entrega atual em andamento neste repositório:
 
-- README de apresentação;
-- registro de estudos com evidências;
-- pelo menos 3 exercícios de lógica;
-- base para abertura do primeiro Pull Request.
+- `Nível 1 - Fundamentos de programação back-end`
+- stack atual: `Java`
+- mini-projeto simples de terminal
+- evidências escritas com base nos PDFs `INS-003`, `INS-004`, `INS-006` e `INS-007`
 
-Neste repositório, a base de Nível 0 está organizada assim:
+## O que já está organizado
 
-- `python/exercicios-logica/` com os 3 exercícios principais em Python;
-- `java/exercicios-logica/` com exercícios de estudo em Java;
-- `python/log-de-estudos/` com o histórico de Python;
-- `java/log-de-estudos/` com o histórico de Java;
-- documentação principal do repositório.
+Com base em `INS-007`, o repositório já tem a base do `Nível 0` e a preparação da entrega atual do `Nível 1`.
+
+Principais evidências atuais:
+
+- `README.md` de apresentação;
+- logs de estudo por stack;
+- exercícios de lógica em `java/exercicios-logica/`;
+- mini-projeto atual em `java/mini-projetos/01-sistema-registro-produtos-java/`.
 
 ## Linguagens organizadas
 
@@ -37,9 +40,18 @@ Para facilitar leitura, revisão e futuros PRs, os arquivos foram separados por 
 - `python/`
 - `java/`
 
-## Foco atual da trilha
+## Foco atual
 
-Meu foco atual dentro da trilha Back-End está em **Java**, com prática organizada também em **Python** para reforço de lógica e fundamentos.
+Meu foco atual dentro da trilha Back-End está em **Java**.
+
+Os exercícios de lógica em Java servem como base real do meu nível atual de programação na linguagem, enquanto o mini-projeto do Nível 1 mostra aplicação simples de:
+
+- `Scanner`;
+- `ArrayList`;
+- classes e objetos;
+- validação de entrada;
+- tratamento de erro básico;
+- organização em múltiplos arquivos.
 
 ## Estrutura atual
 
@@ -54,13 +66,22 @@ sistemium-backend-studies/
 └── java/
     ├── README.md
     ├── exercicios-logica/
+    ├── mini-projetos/
     └── log-de-estudos/
 ```
 
-## Evidências atuais do Nível 0
+## Entrega atual do Nível 1 em Java
 
-- README de apresentação;
-- logs de estudo separados por stack;
-- 3 exercícios de lógica em Python;
-- organização por linguagem;
-- exercícios iniciais em Java como parte do foco atual de estudo.
+O mini-projeto atual é um sistema simples de registro de produtos em terminal, escrito em Java, com:
+
+- cadastro em memória;
+- listagem;
+- busca por nome;
+- remoção por nome;
+- validação de nome e preço;
+- tratamento de erro de entrada;
+- teste básico sem framework externo.
+
+## Observação de escopo
+
+Esta entrega foi mantida propositalmente simples para ficar coerente com um estudo inicial de Java, sem avançar além do que o `Nível 1` pede nos documentos da Sistemium.

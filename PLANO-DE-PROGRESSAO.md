@@ -1,38 +1,36 @@
-# Plano de Progressao da Trilha Back-End
+# Plano de Progressão da Trilha Back-End
 
 Este arquivo existe para manter o repositório alinhado com a etapa real da trilha, sem misturar entregas de níveis diferentes no mesmo commit.
 
 ## Etapa preparada agora
 
-**Nivel 0 - Base obrigatoria**
+**Nível 1 - Fundamentos de programação back-end**
 
 Status:
 
 - organizado;
-- documentado.
+- documentado;
+- focado em Java;
+- sem extrapolar o escopo do mini-projeto inicial.
 
-## O que o Nível 0 pede segundo `INS-007`
+## O que o Nível 1 pede segundo `INS-007`
 
-- Git e GitHub;
-- Markdown;
-- terminal;
-- lógica de programação;
-- leitura de documentação;
-- branch;
-- commit;
-- Pull Request;
-- uso responsável de IA como apoio de estudo.
+- mini-projeto de terminal na stack escolhida;
+- cadastro simples em memória;
+- validação de entrada;
+- tratamento de erro;
+- testes básicos;
+- README explicando como rodar.
 
-## O que foi deixado no repositório para o Nível 0
+## O que foi deixado no repositório para esta entrega
 
-- `README.md` de apresentação;
-- registros de estudo separados por stack;
-- `python/exercicios-logica/` com 3 exercícios;
-- `java/exercicios-logica/` com exercícios de estudo;
-- separação por linguagem para leitura mais clara.
+- `java/exercicios-logica/` como base de estudo da linguagem;
+- `java/mini-projetos/01-sistema-registro-produtos-java/` como entrega atual;
+- `java/log-de-estudos/` com registro da evolução e da preparação do PR;
+- documentação simples de execução, teste e checklist.
 
 ## Regra de organização usada aqui
 
-- Nível 0 fica neste repositório neste momento.
-- Etapas futuras ficam separadas até revisão final.
-- Nada além do escopo atual entra agora.
+- O foco atual fica no `Nível 1` em Java.
+- O mini-projeto permanece simples e sem framework.
+- Etapas futuras continuam fora deste PR.
